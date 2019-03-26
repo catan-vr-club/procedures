@@ -2,14 +2,6 @@
 
 As seasons progress and our community grows so do our guidelines for league procedures. Here we cover recent changes and proposals for your review and consideration.
 
-
-## Accepted Proposals
-
- Proposal | Issue
--------- | ---------------------------------------------------------------------
- #1   | [](https://github.com/cartalyst/stripe-billing-laravel/tree/1.0)
-
-
 ## Documentation
 
 Reader-friendly Documentation can be found [here](https://catanvr.club/regulations).
