@@ -14,7 +14,7 @@ As seasons progress and our community grows so do our guidelines for league proc
 
 Reader-friendly Documentation can be found [here](https://catanvr.club/regulations).
 
-Raw files can be found [here](https://github.com/catan-vr-club/procedures.md).
+Raw files can be found [here](procedures.md).
 
 ## Change Log
 
